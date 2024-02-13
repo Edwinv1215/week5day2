@@ -1,0 +1,4 @@
+venv/
+__pycacha__/
+migrations/
+.env/
